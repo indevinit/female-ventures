@@ -5,7 +5,7 @@ The content and information inside this website is made up and not related to th
 
 The A-Team Restart Network was building a website app for the an NGO Female Ventures, The Netherlands.
 
-This project is part of the assignment in ONE program Restart Network, Rotterdam The Netherlands.
+This project is part of the assignment in the impact week ONE program Restart Network, Rotterdam The Netherlands.
 
 Built on:
 MongoDB
