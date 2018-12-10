@@ -30,6 +30,8 @@ Pauline Wang
 https://github.com/paulinewang
 
 
+My individual deployment can be found at:
+https://femaleventures.herokuapp.com
 
  
 
