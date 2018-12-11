@@ -1,9 +1,9 @@
 # female-friends-female-ventures
-A MERN-stack group project for Female Ventures.
-Disclaimer: this project is a demo project and do not officially related to the organization website.
-The content and information inside this website is made up and not related to the organization's database. 
+A group project built using MERN-stack for Female Ventures organization.
+Disclaimer: this project is a demo project and do not officially related to the current organization website.
+The content and information inside this website is fictional and not related to the organization's database. 
 
-The A-Team Restart Network was building a website app for the an NGO Female Ventures, The Netherlands.
+The A-Team Restart Network built a website app for the an NGO Female Ventures, The Netherlands.
 
 This project is part of the assignment in the impact week ONE program Restart Network, Rotterdam The Netherlands.
 
